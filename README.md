@@ -1,2 +1,2 @@
 My first readme
-Alx software engineering is awesome
+This is a file on how to update your github account
